@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jc_memorial_blocks\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "2025 Memorial Block"
+msgstr "2025 纪念方块"
+
+msgid "2026 Memorial Block"
+msgstr "2026 纪念方块"
+
+msgid "Enable or disable memorial block sounds."
+msgstr "启用或禁用纪念方块声音。"
+
+msgid "Player not found."
+msgstr "未找到玩家。"
+
+msgid "Memorial block sounds disabled."
+msgstr "纪念方块声音已禁用。"
+
+msgid "Memorial block sounds enabled."
+msgstr "纪念方块声音已启用。"
+
+msgid "Usage: /memorial_sounds <on|off>"
+msgstr "用法：/memorial_sounds <on|off>"
+
+msgid "Show the memorial notices again on next login."
+msgstr "下次登录时再次显示纪念通知。"
+
+msgid "Memorial notices reset."
+msgstr "纪念通知已重置。"
+
+msgid "Memorial block sounds can be disabled with /memorial_sounds off."
+msgstr "可以使用 /memorial_sounds off 禁用纪念方块声音。"
+
+msgid "This setting is saved after you leave the game."
+msgstr "此设置会在您离开游戏后保存。"
+
+msgid "Show this around town to show you love the original Just Test. REMEMBER THE TEST."
+msgstr "把它展示在城镇各处，以表达您对原版 Just Test 的喜爱。铭记 TEST。"
+
+msgid "This is a dedication block to your ideas, your server, and you."
+msgstr "这是一个献给您的创意、您的服务器以及您本人的纪念方块。"
+
+msgid "WE MISS AND LOVE YOU!"
+msgstr "我们想念你，也爱你！"
